@@ -6,9 +6,11 @@
     <meta http-equiv="content-type" content="text/html; charset=utf-8"/>
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <link rel="shortcut icon" href="images/d.ico">
     <link rel="stylesheet" type="text/css" href="css/reset.css"/> 
     <link rel="stylesheet" type="text/css" href="css/style.css"/>
     <link rel="stylesheet" type="text/css" href="css/prettyPhoto.css"/>
+    <link href="//netdna.bootstrapcdn.com/font-awesome/4.0.3/css/font-awesome.css" rel="stylesheet">
 	<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans:400,600,300,800,700,400italic|PT+Serif:400,400italic"/>
     <!--[if IEMobile]> 
     <link rel="stylesheet" type="text/css" href="css/iemobile.css"/>
@@ -45,7 +47,7 @@
                 
                 <!-- Social Icons -->
                 <ul class="socialicons">
-                	<li><a href="#" class="transition">&#x2a;</a></li>
+                	<li><a href="#" class="transition"><span class="fa fa-facebook"></span></a></li>
                 </ul>
                 <!-- /Social Icons -->
             </header>
@@ -76,7 +78,7 @@
                         <li><label>Birthday</label><span>July 13, 1991</span></li>
                         <li><label>Address</label><span>Campinas, S&atilde;o Paulo</span></li>
                         <li><label>Email</label><span class="word-wrap">ferrazdaniel5@gmail.com</span></li>
-                        <li><label>Phone</label><span>+55 019 98868-6581</span></li>
+                        <li><label>Phone</label><span>+55 019 9 8868-6581</span></li>
                         <li><label>Website</label><span class="word-wrap"><a href="http://www.dcoferraz.com">www.dcoferraz.com</a></span></li>
                     </ul>
                     <!-- /Personal info section -->
@@ -113,7 +115,7 @@
                             <li>
                          
                                 <div class="timelineUnit">
-                                    <h4>Web Developer<span class="timelineDate">2013 - 2010</span></h4>
+                                    <h4>Web Developer<span class="timelineDate">2013 - 2014</span></h4>
                                     <h5>Internship</h5>
                                     <p>Started programming with PHP on HDN Tecnologia.</p>
                                 </div>
@@ -198,7 +200,9 @@
                      <!-- /Skills -->
                      </div>
                      <div class="clear"></div>
-                     <a href="/vcard/files/Curriculum_[Daniel_Ferraz].pdf" class="button transition" target="_blank">Download resume as PDF format</a>
+                     <a href="/vcard/files/Curriculum_[Daniel_Ferraz].pdf" class="button transition" target="_blank"><span class="fa fa-download"></span>Download resume in English</a>
+                     <div class="clear"></div>
+                     <a href="/vcard/files/Curriculum_[Daniel_Ferraz].pdf" class="button transition" target="_blank"><span class="fa fa-download"></span>Download resume in Portuguese</a>
                 </section>
                 <!-- /Resume --> 
                                             
