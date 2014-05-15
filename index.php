@@ -105,19 +105,57 @@
                         <h3 class="main-heading">Employment</h3>   
                         <ul class="timeline">
                             <li>
-                                                   
                                 <div class="timelineUnit">
                                     <h4>WEB Developer<span class="timelineDate">2014 - Present</span></h4>
                                     <h5>PHP Junior Developer</h5>
-                                    <p>Since Feburary a Junior developer in HDN Tecnologia.</p>
+                                    <p> Maintenance and development of php Object Oriented web programs
+                                    	Language integration bu SOAP and WebServices
+                                    	JQuery</p>
+                                    <p>Cria&ccedil;&atilde;o e desenvolvimento de sistemas em PHP Orientado &agrave; Objeto;
+										Integra&ccedil;&atilde;o de linguagens via WebService e SOAP; JQuery; Javascript; Bootstrap; CSS;
+										Photoshop; Corel Draw; Manuten&ccedil;&atilde;o e melhorias de sistemas j&aacute; desenvolvidos; Integra&ccedil;&atilde;o de
+										sistemas Web com aplicativos Android via WebService, e vice-versa; Breve desenvolvimento de
+										sistemas Java Desktop; Contato com clientes para solu&ccedil;&atilde;o de problemas; Uso de banco de
+										dados MySql e Postgres (menor uso); Trabalho em equipe; Pesquisas individuais para
+										complementar e desenvolver os conhecimentos;</p>
                                 </div>
                             </li>
                             <li>
-                         
                                 <div class="timelineUnit">
                                     <h4>Web Developer<span class="timelineDate">2013 - 2014</span></h4>
                                     <h5>Internship</h5>
-                                    <p>Started programming with PHP on HDN Tecnologia.</p>
+                                    <p>Cria&ccedil;&atilde;o e desenvolvimento de sistemas em PHP; Manuten&ccedil;&atilde;o e melhorias
+										de sistemas j&aacute; desenvolvidos; Integra&ccedil;&atilde;o de sistemas Web com aplicativos Android; Breve
+										desenvolvimento de sistemas Java Desktop; Contato com clientes para solu&ccedil;&atilde;o de problemas;
+										Uso de banco de dados MySql e Postgres (menor uso); Trabalho em equipe; Pesquisas individuais
+										para complementar e desenvolver os conhecimentos;</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="timelineUnit">
+                                    <h4>Web Developer<span class="timelineDate">2012 - 2013</span></h4>
+                                    <h5>Scholarship</h5>
+                                    <p>Manuten&ccedil;&atilde;o, estiliza&ccedil;&atilde;o e modifica&ccedil;&atilde;o no site principal;
+										Extra: Proposi&ccedil;&atilde;o de uma newsletter(informativo) com atualiza&ccedil;&otilde;es do site e convites
+										bimestrais para incentivo de novos autores e pareceristas, familiariza&ccedil;&atilde;o com o sistema que o
+										site da Revista utiliza.</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="timelineUnit">
+                                    <h4>Technician<span class="timelineDate">2012 - 2012</span></h4>
+                                    <h5>Scholarship</h5>
+                                    <p>Apoio t&eacute;cnico a professores e alunos nas salas de aula;</p>
+                                </div>
+                            </li>
+                            <li>
+                                <div class="timelineUnit">
+                                    <h4>Web Developer<span class="timelineDate">2012 - 2012</span></h4>
+                                    <h5>Scholarship</h5>
+                                    <p>Manuten&ccedil;&atilde;o, estiliza&ccedil;&atilde;o e modifica&ccedil;&atilde;o no site principal;
+										Extra: Proposi&ccedil;&atilde;o de uma newsletter(informativo) com atualiza&ccedil;&otilde;es do site e convites
+										bimestrais para incentivo de novos autores e pareceristas, familiariza&ccedil;&atilde;o com o sistema que o
+										site da Revista utiliza.</p>
                                 </div>
                             </li>
                             <div class="clear"></div>
@@ -144,16 +182,12 @@
                         <ul class="skills">
                             <li>
                                 <h4>Photoshop</h4>
-                                <div class="rating" data-rat="2"></div>
+                                <div class="rating" data-rat="3"></div>
 
                             </li>
                             <li>
-                                <h4>Flash</h4>
-                                <div class="rating" data-rat="3"></div>
-                            </li>
-                            <li>
                                 <h4>Corel Draw</h4>
-                                <div class="rating" data-rat="2"></div>
+                                <div class="rating" data-rat="1"></div>
                             </li>
                         </ul>
                    
@@ -161,27 +195,35 @@
                         <ul class="skills">
                             <li>
                                 <h4>SQL</h4>
+                                <div class="rating" data-rat="4"></div>
+                            </li>
+                            <li>
+                                <h4>php OO</h4>
                                 <div class="rating" data-rat="6"></div>
                             </li>
                             <li>
-                                <h4>php</h4>
-                                <div class="rating" data-rat="4"></div>
-                            </li>
-                            <li>
                                 <h4>Javascript</h4>
-                                <div class="rating" data-rat="7"></div>
+                                <div class="rating" data-rat="6"></div>
                             </li>
                             <li>
                                 <h4>SOAP</h4>
-                                <div class="rating" data-rat="5"></div>
+                                <div class="rating" data-rat="4"></div>
                             </li>
                             <li>
                                 <h4>HTML</h4>
-                                <div class="rating" data-rat="4"></div>
+                                <div class="rating" data-rat="6"></div>
                             </li>
                             <li>
                                 <h4>CSS</h4>
-                                <div class="rating" data-rat="4"></div>
+                                <div class="rating" data-rat="6"></div>
+                            </li>
+                            <li>
+                                <h4>Java</h4>
+                                <div class="rating" data-rat="2"></div>
+                            </li>
+                            <li>
+                                <h4>Postgres</h4>
+                                <div class="rating" data-rat="2"></div>
                             </li>
                         </ul>
                         
