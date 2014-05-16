@@ -202,8 +202,12 @@ jQuery(document).ready(function(){
 	// Needed variables
 	var $contactform 	= $('#contactform'),
 		$success		= 'Your message has been sent. Thank you!';
-		
+
+
 	$contactform.submit(function(){
+
+        alert('I\'m working on this! Come back later and chek it out! (:');
+        return false;
 		$.ajax({
 		   type: "POST",
 		   url: "php/contact.php",
@@ -223,7 +227,7 @@ jQuery(document).ready(function(){
 			}
 		 });
 		return false;
-	});	
+	});
 	/* ---------------------------------------------------------------------- */
 	/*	Google Maps
 	/* ---------------------------------------------------------------------- */
